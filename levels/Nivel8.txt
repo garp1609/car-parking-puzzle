@@ -1,0 +1,9 @@
+.	.	B	.	A	.	.	o	o
+e	.	d	d	A	.	.	.	.
+e	.	c	.	A	.	n	n	.
+f	.	c	a	a	a	m	.	B
+f	.	c	b	b	.	m	.	.
+f	.	.	.	.	.	m	l	l
+g	g	g	h	.	B	.	k	.
+.	.	.	h	j	j	.	k	p
+B	.	i	i	0	.	.	B	p

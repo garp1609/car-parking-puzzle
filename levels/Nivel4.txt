@@ -1,0 +1,5 @@
+b	b	.	h	h	f	f
+.	e	e	i	i	.	a
+.	.	.	j	.	.	a
+0	.	d	j	A	A	A
+c	c	d	.	.	g	g
